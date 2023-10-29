@@ -151,3 +151,4 @@ DICAS:
 
 6 - Quebra as ações em pequenos AWS Lambdas!
 
+Documentação do projeto: https://docs.google.com/document/d/1vqZY7SxDAEfLKkabE9pgMBfAgQjYmcTp0AlqwCEGFt4/edit
